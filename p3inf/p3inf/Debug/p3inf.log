@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  p3inf.cpp
+c:\users\brandon\desktop\alvino capstone\programs\p3inf\p3inf\p3inf.cpp(84): warning C4244: 'initializing': conversion from 'LONGLONG' to 'unsigned int', possible loss of data
+c:\users\brandon\desktop\alvino capstone\programs\p3inf\p3inf\p3inf.cpp(87): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+c:\users\brandon\desktop\alvino capstone\programs\p3inf\p3inf\p3inf.cpp(129): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+c:\users\brandon\desktop\alvino capstone\programs\p3inf\p3inf\p3inf.cpp(140): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Brandon\Desktop\Alvino Capstone\Programs\p3inf\Debug\p3inf.exe not found or not built by the last incremental link; performing full link
+  p3inf.vcxproj -> C:\Users\Brandon\Desktop\Alvino Capstone\Programs\p3inf\Debug\p3inf.exe
